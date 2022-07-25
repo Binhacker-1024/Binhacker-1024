@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Binhacker.
-- 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning C#,Lua,etc.
-- 💞️ I’m looking to collaborate on unity.
+- 👀 I’m interested in Back-end.
+- 🌱 I’m currently learning C++ & Java & C# & PHP .
+- 💞️ I’m looking to collaborate on Backend Projects.
 - 📫 How to reach me ...
 
 <!---
